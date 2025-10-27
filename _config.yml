@@ -1,0 +1,25 @@
+# Configuração do GitHub Pages
+# Este arquivo desabilita o processamento Jekyll
+
+# Desabilita Jekyll
+plugins: []
+
+# Configurações básicas
+baseurl: ""
+url: ""
+
+# Configurações de build
+markdown: kramdown
+highlighter: rouge
+
+# Desabilita processamento de arquivos
+exclude:
+  - README.md
+  - backend/
+  - start_system.bat
+  - .gitignore
+  - .nojekyll
+
+# Inclui apenas arquivos necessários para documentação
+include:
+  - frontend/
