@@ -1,0 +1,46 @@
+{
+  "manual_funcionario.txt": {
+    "filename": "manual_funcionario.txt",
+    "file_path": "internal_documents\\manual_funcionario.txt",
+    "file_hash": "93952849885d19258935246bce6c57de",
+    "size": 1698,
+    "created": "2025-08-24T22:18:58.027237",
+    "last_modified": "2025-08-24T22:18:58.027237",
+    "processed": true,
+    "content_type": "text/plain",
+    "category": "empresa"
+  },
+  "manual_academia.txt": {
+    "filename": "manual_academia.txt",
+    "file_path": "internal_documents\\manual_academia.txt",
+    "file_hash": "8473df7b3847c85239a318dc0f410663",
+    "size": 2467,
+    "created": "2025-09-23T23:10:13.276345",
+    "last_modified": "2025-09-23T23:10:13.276345",
+    "processed": true,
+    "content_type": "text/plain",
+    "category": "academia"
+  },
+  "manual_restaurante.txt": {
+    "filename": "manual_restaurante.txt",
+    "file_path": "internal_documents\\manual_restaurante.txt",
+    "file_hash": "530e1911bb78d5e3d441c5fec064ec34",
+    "size": 3579,
+    "created": "2025-09-23T23:10:15.784267",
+    "last_modified": "2025-09-23T23:10:15.784267",
+    "processed": true,
+    "content_type": "text/plain",
+    "category": "restaurante"
+  },
+  "manual_supermercado.txt": {
+    "filename": "manual_supermercado.txt",
+    "file_path": "internal_documents\\manual_supermercado.txt",
+    "file_hash": "22a36a151444b3708aabf04d4542ce74",
+    "size": 3337,
+    "created": "2025-09-23T23:10:15.057347",
+    "last_modified": "2025-09-23T23:10:15.057347",
+    "processed": true,
+    "content_type": "text/plain",
+    "category": "supermercado"
+  }
+}
